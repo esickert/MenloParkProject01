@@ -5,8 +5,8 @@ import org.junit.*;
 public class MenloPark {
 
     @Test
-    public void testing {
-        System.out.println("This is testing repository creation";//
+    public void testing() {
+        System.out.println("This is testing repository creation");//
     }
 
 }
